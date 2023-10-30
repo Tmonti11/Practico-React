@@ -8,7 +8,7 @@ const AboutUs = () => {
     <div style={{display: 'flex', paddingLeft:'40px', justifyContent:'center',alignContent:'center'}}>
     
     <Card style={{ width: '18rem' }}>
-      <Card.Img variant="top" src="src/assets/images/carta1.jpg" />
+      <Card.Img variant="top" src="/images/carta1.jpg" />
       <Card.Body>
         <Card.Title>Card Title</Card.Title>
         <Card.Text>
@@ -18,7 +18,7 @@ const AboutUs = () => {
       </Card.Body>
     </Card>
     <Card style={{ width: '18rem' }}>
-    <Card.Img variant="top" src="src/assets/images/carta2.jpg" />
+    <Card.Img variant="top" src="/images/carta2.jpg" />
     <Card.Body>
       <Card.Title>Card Title</Card.Title>
       <Card.Text>
